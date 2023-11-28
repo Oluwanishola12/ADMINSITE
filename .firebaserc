@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "oluwanishola-650e9": {
+      "hosting": {
+        "shindara": [
+          "oluwanishola-650e9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "oluwanishola-650e9"
+  }
+}
